@@ -26,7 +26,7 @@ Este repositório tem como objetivo reunir os códigos realizados através do Pr
 * [Java Exceções: aprenda a criar, lançar e controlar exceções](https://github.com/ninapalmadev/JAVA-excecoes)
 * [Java e java.lang: programe com a classe Object e String](https://github.com/ninapalmadev/JAVA-e-java.lang)
 * [Java e java.util: Coleções, Wrappers e Lambda expressions](https://github.com/ninapalmadev/Java-e-java.util-Colecoes-Wrappers-e-Lambda)
-* [Java e java.io: Streams, Reader e Writers](https://github.com/ninapalmadev/Java-e-java.util-Colecoes-Wrappers-e-Lambda)
+* [Java e java.io: Streams, Reader e Writers](https://github.com/ninapalmadev/Java-e-java.io-Streams-Reader-e-Writers)
 * [Java Collections: Dominando Listas, Sets e Mapas](https://github.com/ninapalmadev/Java-Collections-Dominando-Listas-Sets-e-Mapas)
 * [Java 8: conheça as novidades dessa versão](https://github.com/ninapalmadev/java8-lambdas)
 * [Java e JDBC: trabalhando com um banco de dados](https://github.com/ninapalmadev/Java-e-JDBC-banco-de-dados)
