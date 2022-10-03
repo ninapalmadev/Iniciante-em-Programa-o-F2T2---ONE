@@ -30,4 +30,4 @@ Este repositório tem como objetivo reunir os códigos realizados através do Pr
 * [Java Collections: Dominando Listas, Sets e Mapas](https://github.com/ninapalmadev/Java-Collections-Dominando-Listas-Sets-e-Mapas)
 * [Java 8: conheça as novidades dessa versão](https://github.com/ninapalmadev/java8-lambdas)
 * [Java e JDBC: trabalhando com um banco de dados](https://github.com/ninapalmadev/Java-e-JDBC-banco-de-dados)
-
+## * [Challenge Java Sprint 01: Projeto Conversor de Moedas](https://github.com/ninapalmadev/conversor-moedas---ALURA)
